@@ -15,6 +15,38 @@ created: 2026-03-01
 
 ---
 
+## Activate Protocol
+
+**Do NOT dump all information when this skill is triggered.**
+Instead: diagnose first, prescribe second.
+
+**Step 1 — Ask these 3 questions:**
+> "To give you the most useful advice from this playbook, I need to understand where you are right now:
+> 1. Do you have an app launched already — or are you still picking what to build?
+> 2. If launched: roughly how many downloads do you have, and how many paying users?
+> 3. How much money can you invest into growth right now (roughly)?"
+
+**Step 2 — Diagnose & Prescribe based on answers:**
+
+| Situation | Focus | Jump to |
+|-----------|-------|---------|
+| No app yet | App selection + speed | Step 1 |
+| App launched, 0–5k downloads, no conversions | Distribution engine first, don't touch product | Step 2 |
+| App launched, getting downloads, low trial conversion | Onboarding is broken | Step 3 |
+| Downloads + trials, stuck below $5k/month | Scaling distribution | Step 4 |
+| Has budget ($10k+) | Influencer/UGC/Paid Ads path | Step 2 → Kanal 2–4 |
+| No budget | Content-first, make it yourself | Step 2 → Kanal 1 |
+
+**Step 3 — Action format:**
+1. Name the phase they're in (1 sentence)
+2. Tell them the ONE thing to do next (not five things)
+3. Give them the specific steps from the relevant section below
+4. End with: *"Want to go deeper on any part of this?"*
+
+**Do not show the full playbook unless explicitly asked.**
+
+---
+
 ## Was du weißt (nach diesem Skill)
 
 - Wie man das richtige App-Konzept auswählt (nicht kopieren, Twist hinzufügen)
