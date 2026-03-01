@@ -6,12 +6,12 @@ description: >
   "should I run ads", "how do I pick what app to build", "onboarding conversion rate",
   "UGC creators for my app", "TikTok for mobile apps", "influencer deals for apps".
   This skill covers the full playbook: app selection → launch → distribution → onboarding → paid ads → scaling.
-source_article: "This is how I scaled my mobile app to $25k+/month (The Complete Guide) — @maubaron, Feb 28 2026"
+source_article: "This is how I scaled my mobile app to $25k+/month (The Complete Guide) — [@maubaron](https://x.com/maubaron), Feb 28 2026"
 created: 2026-03-01
 ---
 
 # Mobile App → $25k/month Playbook
-*by @maubaron — complete guide, zero held back*
+*by [@maubaron](https://x.com/maubaron) — complete guide, zero held back*
 
 ---
 
@@ -72,7 +72,7 @@ Instead: diagnose first, prescribe second.
 **Option A — Erfolgreiche App + eigener Twist:**
 - Nimm eine erfolgreiche App als Basis
 - Füge eigene Persönlichkeit hinzu: eigene Farben, Maskottchen, Design-Philosophie
-- *Beispiel: Prayer Lock basiert auf @lottsnomad's "Pray Screen" App — heute komplett unterschiedliches Design*
+- *Beispiel: Prayer Lock basiert auf [@lottsnomad](https://x.com/lottsnomad)'s "Pray Screen" App — heute komplett unterschiedliches Design*
 - Plain Copy-Catting = NGMI-Verhalten. Twist ist Pflicht.
 
 **Option B — Zwei erfolgreiche Apps kombinieren:**
@@ -88,7 +88,7 @@ Instead: diagnose first, prescribe second.
 
 **Green light:**
 - Conversions auf Launch Day = du hast was
-- @maubaron: 3 Apps davor → 0 Conversions on Launch Day. Prayer Lock → 5 Conversions an Tag 1.
+- [@maubaron](https://x.com/maubaron): 3 Apps davor → 0 Conversions on Launch Day. Prayer Lock → 5 Conversions an Tag 1.
 
 **Pivot-Signal:**
 - 100k Views auf Social Media → 0 Conversions → **nächste App-Idee**
@@ -143,7 +143,7 @@ Warum zuerst:
 
 > "This format alone got our app to $2.5k/month."
 
-- Kaufe Reaction-Clips von Freunden oder Plattformen wie @dansugcmodels
+- Kaufe Reaction-Clips von Freunden oder Plattformen wie [@dansugcmodels](https://x.com/dansugcmodels)
 - Sticke deine Demo dazu
 - **Hook = Clip + Text-Overlay** muss sehr stark sein
 - Demo: **maximal 8 Sekunden**
@@ -164,7 +164,7 @@ Warum zuerst:
 *Gutes Beispiel: Konsistenter Account mit Brand Identity + klarer Format-Sprache*
 *Schlechtes Beispiel: Alles durcheinander, kein klares Thema*
 
-#### Format 3: Jack Friks Method (@jackfriks)
+#### Format 3: Jack Friks Method ([@jackfriks](https://x.com/jackfriks))
 
 Nicht der beste Konvertierer — aber sehr einfach in Bulk zu produzieren.
 
@@ -214,7 +214,7 @@ Automatisierungspotential: sehr hoch. Nicht bester Konvertierer aber skalierbar.
 - Falls kein Call: Deal per SMS (nicht DM) schicken
 - **Ziel-CPM:** $1 (Cost per 1.000 Views)
 
-**Deal-Struktur von @ErnestoSOFTWARE:**
+**Deal-Struktur von [@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE):**
 1. **Trial-Deal:** $1 CPM für 300k Views, 40% upfront
 2. **Folgedeal:** $1.2 CPM
 
@@ -242,9 +242,9 @@ Automatisierungspotential: sehr hoch. Nicht bester Konvertierer aber skalierbar.
 - Viral Sense + Taste — das macht UGC so interessant und schwer
 
 **Wer mehr weiß:**
-- @alexolim_ — UGC-Expertin
-- @juliapintar — UGC-Expertin
-- @xElenaYangx — UGC-Expertin
+- [@alexolim_](https://x.com/alexolim_) — UGC-Expertin
+- [@juliapintar](https://x.com/juliapintar) — UGC-Expertin
+- [@xElenaYangx](https://x.com/xElenaYangx) — UGC-Expertin
 
 ---
 
@@ -265,7 +265,7 @@ Automatisierungspotential: sehr hoch. Nicht bester Konvertierer aber skalierbar.
 - Klarer + direkter CTA
 - Kein vager Content der auf Comment-Section konvertiert
 
-**Ressource:** @maubaron hat ein kostenloses Guide zu Meta + TikTok Ads erstellt.
+**Ressource:** [@maubaron](https://x.com/maubaron) hat ein kostenloses Guide zu Meta + TikTok Ads erstellt.
 
 ---
 
@@ -324,7 +324,7 @@ Denke an dein Onboarding als Geschichte:
 - Besonders: **Commitment-Prinzip** vor der Paywall anwenden
 - User aktiv committen lassen (Statement, Auswahl, Bestätigung) bevor der Paywall kommt → signifikant höhere Conversion
 
-**Ressource:** @maubaron hat ein Onboarding-Canvas geteilt mit Inspirations-Apps und eigenem Onboarding-Design.
+**Ressource:** [@maubaron](https://x.com/maubaron) hat ein Onboarding-Canvas geteilt mit Inspirations-Apps und eigenem Onboarding-Design.
 
 ---
 
@@ -381,7 +381,7 @@ Ab hier: funktionierendes Distribution-System + konvertierendes Onboarding.
 
 ## Praktisches Beispiel: Prayer Lock
 
-- **App-Idee:** @lottsnomad's "Pray Screen" als Basis, eigener Twist, komplett anderes Design
+- **App-Idee:** [@lottsnomad](https://x.com/lottsnomad)'s "Pray Screen" als Basis, eigener Twist, komplett anderes Design
 - **Distribution Start:** UGC Reaction + Demo Format → $2.5k/month
 - **Paid Ads Scaling:** Meta + TikTok Ads → $25k/month, 50% Profit Margins
 - **Launch Day Proof:** 5 Conversions an Tag 1 (vs. 0 bei den 3 Apps davor)
@@ -390,35 +390,35 @@ Ab hier: funktionierendes Distribution-System + konvertierendes Onboarding.
 
 ## Beispiele & Ressourcen
 
-- **@maubaron** (twitter) — https://x.com/maubaron
+- **[@maubaron](https://x.com/maubaron)** (twitter) — https://x.com/maubaron
   > Autor des Playbooks. Hat Prayer Lock auf $25k/month skaliert. Paid Ads Spezialist.
 
-- **@ErnestoSOFTWARE** (twitter) — https://x.com/ErnestoSOFTWARE
+- **[@ErnestoSOFTWARE](https://x.com/ErnestoSOFTWARE)** (twitter) — https://x.com/ErnestoSOFTWARE
   > Hat innerhalb weniger Wochen + 1 App denselben $25k/month Level erreicht. Influencer-Deal-Struktur kommt von ihm. Slideshows-Experte.
 
-- **@lottsnomad** (twitter) — https://x.com/lottsnomad
+- **[@lottsnomad](https://x.com/lottsnomad)** (twitter) — https://x.com/lottsnomad
   > Creator der "Pray Screen" App — Basis-App für Prayer Lock.
 
-- **@dansugcmodels** (tiktok/platform) — https://x.com/dansugcmodels
+- **[@dansugcmodels](https://x.com/dansugcmodels)** (tiktok/platform) — https://x.com/dansugcmodels
   > Plattform für Reaction-Clips (UGC Reaction + Demo Format).
 
-- **@jackfriks** (tiktok) — https://x.com/jackfriks
+- **[@jackfriks](https://x.com/jackfriks)** (tiktok) — https://x.com/jackfriks
   > Creator des "Jack Friks Method" Content-Formats.
 
-- **@alexolim_** (tiktok) — https://x.com/alexolim_
+- **[@alexolim_](https://x.com/alexolim_)** (tiktok) — https://x.com/alexolim_
   > UGC-Expertin. Folgen wenn du UGC-Kampagnen aufbauen willst.
 
-- **@juliapintar** (tiktok) — https://x.com/juliapintar
+- **[@juliapintar](https://x.com/juliapintar)** (tiktok) — https://x.com/juliapintar
   > UGC-Expertin. Folgen wenn du UGC-Kampagnen aufbauen willst.
 
-- **@xElenaYangx** (tiktok) — https://x.com/xElenaYangx
+- **[@xElenaYangx](https://x.com/xElenaYangx)** (tiktok) — https://x.com/xElenaYangx
   > UGC-Expertin. Folgen wenn du UGC-Kampagnen aufbauen willst.
 
 - **Meta + TikTok Paid Ads Guide** (free guide) — [Link aus Artikel nicht öffentlich verfügbar]
-  > @maubaron hat einen kostenlosen Guide zu Meta + TikTok Ads für Mobile Apps veröffentlicht.
+  > [@maubaron](https://x.com/maubaron) hat einen kostenlosen Guide zu Meta + TikTok Ads für Mobile Apps veröffentlicht.
 
 - **Onboarding Canvas** (design resource) — [Link aus Artikel nicht öffentlich verfügbar]
-  > Canvas den @maubaron für das Prayer Lock Onboarding genutzt hat — inkl. Inspirations-Apps und eigenem Onboarding-Design.
+  > Canvas den [@maubaron](https://x.com/maubaron) für das Prayer Lock Onboarding genutzt hat — inkl. Inspirations-Apps und eigenem Onboarding-Design.
 
 - **Robert Cialdini — Influence** (book)
   > Buch über Überzeugungsprinzipien. Besonders Commitment-Prinzip für Onboarding-Design. Auch ChatGPT befragen: "Explain Cialdini's principles of influence and how to apply them to mobile app onboarding."
