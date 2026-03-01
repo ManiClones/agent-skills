@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "organization": "ManiClones",
+  "date": "March 2026",
+  "abstract": "Verified AI analysis protocol for customer data — transcripts, surveys, interviews. Prevents the 4 failure modes that silently corrupt qualitative research: invented evidence, false/generic insights, signal without direction, and contradictory insights flattened into false consensus. Each insight requires exact quotes with participant timestamps, segment-level attribution, and explicit contradiction mapping before it reaches a decision-maker.",
+  "references": []
+}
