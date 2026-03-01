@@ -1,6 +1,11 @@
 ---
 name: ai-customer-analysis
-description: Analyze customer data (transcripts, surveys, interviews) with AI while preventing the 4 failure modes that silently break qualitative research — hallucinations, cherry-picking, false confidence, and contradictory insights. Trigger phrases: "analyze customer interviews", "process customer transcripts", "make sense of survey data", "get insights from customer calls", "analyze qualitative data".
+description: >-
+  Analyze customer data (transcripts, surveys, interviews) with AI while
+  preventing the 4 failure modes that silently break qualitative research.
+  Use when analyzing customer interviews, processing transcripts, making
+  sense of survey data, getting insights from customer calls, or working
+  with any qualitative or mixed data.
 ---
 
 # AI Customer Analysis — Verified Insight Protocol
