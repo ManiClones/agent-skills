@@ -28,6 +28,7 @@ After install, your agent automatically knows about the skill. Trigger it by des
 | Skill | What it does | Install |
 |-------|-------------|---------|
 | [`ai-customer-analysis`](./skills/ai-customer-analysis/) | Verified AI analysis of customer data — prevents hallucinations, cherry-picking, and false confidence in qualitative research | `npx skills add ManiClones/agent-skills --skill ai-customer-analysis` |
+| [`app-25k-playbook`](./skills/app-25k-playbook/) | Complete playbook to scale a mobile app from 0 to $25k/month — app selection, all 4 distribution channels (content/influencers/UGC/paid ads), high-converting onboarding, scaling strategy | `npx skills add ManiClones/agent-skills --skill app-25k-playbook` |
 
 ---
 

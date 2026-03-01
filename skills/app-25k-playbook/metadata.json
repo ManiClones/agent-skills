@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "organization": "ManiClones",
+  "date": "2026-03-01",
+  "abstract": "Complete playbook to scale a mobile app from 0 to $25k/month — covers app selection, all 4 distribution channels (content, influencers, UGC, paid ads), high-converting onboarding design, and scaling strategy.",
+  "source_article": {
+    "title": "This is how I scaled my mobile app to $25k+/month (The Complete Guide)",
+    "url": "https://x.com/maubaron",
+    "author": "@maubaron",
+    "date": "2026-02-28"
+  },
+  "references": [
+    { "handle": "@ErnestoSOFTWARE", "url": "https://x.com/ErnestoSOFTWARE", "context": "Co-builder, influencer deal structure, slideshows expert" },
+    { "handle": "@lottsnomad", "url": "https://x.com/lottsnomad", "context": "Creator of Pray Screen app (Prayer Lock inspiration)" },
+    { "handle": "@dansugcmodels", "url": "https://x.com/dansugcmodels", "context": "Platform for UGC reaction clips" },
+    { "handle": "@jackfriks", "url": "https://x.com/jackfriks", "context": "Jack Friks Method content format creator" },
+    { "handle": "@alexolim_", "url": "https://x.com/alexolim_", "context": "UGC expert" },
+    { "handle": "@juliapintar", "url": "https://x.com/juliapintar", "context": "UGC expert" },
+    { "handle": "@xElenaYangx", "url": "https://x.com/xElenaYangx", "context": "UGC expert" }
+  ]
+}
