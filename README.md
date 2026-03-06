@@ -77,4 +77,3 @@ Built by [@ManiClones](https://github.com/ManiClones)
 
 | Skill | Source | By |
 |-------|--------|----|
-| [how to win in an era where the tech is cheap and distribution is everything](skills/how-to-win-in-an-era-where-the-tech-is-c-e2e-848431/SKILL.md) | x.com | via @ManiClones |
