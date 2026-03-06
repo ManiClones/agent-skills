@@ -83,3 +83,10 @@ Built by [@ManiClones](https://github.com/ManiClones)
 | Skill | Source | By |
 |-------|--------|----|
 | [I want to become an AI engineer (full course)](skills/i-want-to-become-an-ai-engineer-full-course/SKILL.md) | x.com | @TradeAGI |
+
+
+## Skills
+
+| Skill | Source | By |
+|-------|--------|----|
+| [here's how brazilians affiliates are scaling b2c offers to 7-figs with AI slideshows...](skills/heres-how-brazilians-affiliates-are-scaling-b2c-offers-to-7/SKILL.md) | x.com | @ManiClones |
