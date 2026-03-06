@@ -66,3 +66,10 @@ skills/
 ---
 
 Built by [@ManiClones](https://github.com/ManiClones)
+
+
+## Latest Skills
+
+| Skill | Source | By |
+|-------|--------|----|
+| [E2E SkillBot Temporary Check](skills/e2e-skillbot-1772756377449/SKILL.md) | example.com | via @phntm-e2e |
