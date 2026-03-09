@@ -174,3 +174,10 @@ Built by [@ManiClones](https://github.com/ManiClones)
 | Skill | Source | By |
 |-------|--------|----|
 | [X post by @ziwenxu_](skills/x-post-by-ziwenxu/SKILL.md) | x.com | @ManiClones |
+
+
+## Skills
+
+| Skill | Source | By |
+|-------|--------|----|
+| [X post by @alphafortraders](skills/x-post-by-alphafortraders/SKILL.md) | x.com | @alphafortraders |
