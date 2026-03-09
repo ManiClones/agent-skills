@@ -1,7 +1,15 @@
 {
-  "name": "heres-how-brazilians-affiliates-are-scaling-b2c-offers-to-7",
-  "title": "here's how brazilians affiliates are scaling b2c offers to 7-figs with AI slideshows...",
-  "source": "https://x.com/i/article/2029299249176031232",
-  "requestedBy": "ManiClones",
-  "createdAt": "2026-03-09T00:19:37.358Z"
+  "version": "1.0.0",
+  "organization": "ManiClones",
+  "date": "2026-03-09",
+  "abstract": "here's how brazilians affiliates are scaling b2c offers to 7-figs with AI slideshows...",
+  "source_article": {
+    "title": "here's how brazilians affiliates are scaling b2c offers to 7-figs with AI slideshows...",
+    "url": "https://x.com/i/article/2029299249176031232",
+    "author": "@ManiClones",
+    "date": "2026-03-09"
+  },
+  "references": [
+    "https://x.com/i/article/2029299249176031232"
+  ]
 }
