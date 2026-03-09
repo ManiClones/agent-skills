@@ -125,3 +125,10 @@ Built by [@ManiClones](https://github.com/ManiClones)
 | Skill | Source | By |
 |-------|--------|----|
 | [I want to become an AI engineer (full course)](skills/i-want-to-become-an-ai-engineer-full-course/SKILL.md) | x.com | @TradeAGI |
+
+
+## Skills
+
+| Skill | Source | By |
+|-------|--------|----|
+| [I want to become an AI engineer (full course)](skills/i-want-to-become-an-ai-engineer-full-course/SKILL.md) | x.com | @TradeAGI |
