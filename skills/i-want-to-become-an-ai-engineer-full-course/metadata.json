@@ -1,7 +1,15 @@
 {
-  "name": "i-want-to-become-an-ai-engineer-full-course",
-  "title": "I want to become an AI engineer (full course)",
-  "source": "https://x.com/i/article/2029578615113777152",
-  "requestedBy": "TradeAGI",
-  "createdAt": "2026-03-09T00:26:56.971Z"
+  "version": "1.0.0",
+  "organization": "ManiClones",
+  "date": "2026-03-09",
+  "abstract": "Comprehensive AI engineering curriculum covering the full three-layer stack: Prompt Engineering (syntax-level control), Context Engineering (memory, tool access, and deterministic state via MCP and Context as Code), and Intent Engineering (organizational alignment, governance, and autonomous agent oversight). Includes stealable prompt templates, architectural blueprints, and real-world case studies.",
+  "source_article": {
+    "title": "I want to become an AI engineer (full course)",
+    "url": "https://x.com/i/article/2029578615113777152",
+    "author": "@TradeAGI",
+    "date": "2026-03-09"
+  },
+  "references": [
+    "https://x.com/i/article/2029578615113777152"
+  ]
 }
