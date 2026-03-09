@@ -1,7 +1,15 @@
 {
-  "name": "x-post-by-maniclones",
-  "title": "X post by @ManiClones",
-  "source": "https://x.com/ManiClones/status/2029720064199389381",
-  "requestedBy": "ManiClones",
-  "createdAt": "2026-03-09T00:27:17.270Z"
+  "version": "1.0.0",
+  "organization": "ManiClones",
+  "date": "2026-03-09",
+  "abstract": "X post tagging @maubaron and @ArticleSkills. Minimal content skill.",
+  "source_article": {
+    "title": "X post by @ManiClones",
+    "url": "https://x.com/ManiClones/status/2029720064199389381",
+    "author": "@ManiClones",
+    "date": "2026-03-09"
+  },
+  "references": [
+    "https://x.com/ManiClones/status/2029720064199389381"
+  ]
 }
