@@ -1,3 +1,9 @@
+---
+name: x-post-by-maniclones
+description: >-
+  X post tagging @maubaron and @ArticleSkills. Minimal content skill.
+---
+
 # X post by @ManiClones
 
 > Source: https://x.com/ManiClones/status/2029720064199389381  
