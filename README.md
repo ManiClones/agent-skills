@@ -153,3 +153,10 @@ Built by [@ManiClones](https://github.com/ManiClones)
 | Skill | Source | By |
 |-------|--------|----|
 | [How a personal AI agent will change your entire life in 1 day.](skills/how-a-personal-ai-agent-will-change-your-entire-life-in-1-da/SKILL.md) | x.com | @ManiClones |
+
+
+## Skills
+
+| Skill | Source | By |
+|-------|--------|----|
+| [10 Things I Wish I Knew Before Using OpenClaw](skills/10-things-i-wish-i-knew-before-using-openclaw/SKILL.md) | x.com | @ManiClones |
