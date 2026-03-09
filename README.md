@@ -167,3 +167,10 @@ Built by [@ManiClones](https://github.com/ManiClones)
 | Skill | Source | By |
 |-------|--------|----|
 | [X post by @ArticleSkills](skills/x-post-by-articleskills/SKILL.md) | x.com | @ziwenxu_ |
+
+
+## Skills
+
+| Skill | Source | By |
+|-------|--------|----|
+| [X post by @ziwenxu_](skills/x-post-by-ziwenxu/SKILL.md) | x.com | @ManiClones |
