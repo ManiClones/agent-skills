@@ -1,3 +1,9 @@
+---
+name: i-want-to-become-an-ai-engineer-full-course
+description: >-
+  Comprehensive AI engineering curriculum covering the full three-layer stack: Prompt Engineering (syntax-level control), Context Engineering (memory, tool access, and deterministic state via MCP), and Intent Engineering (organizational alignment, governance, and autonomous agent oversight).
+---
+
 # I want to become an AI engineer (full course)
 
 > Source: https://x.com/i/article/2029578615113777152  
