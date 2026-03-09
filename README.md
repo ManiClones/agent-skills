@@ -146,3 +146,10 @@ Built by [@ManiClones](https://github.com/ManiClones)
 | Skill | Source | By |
 |-------|--------|----|
 | [here's how brazilians affiliates are scaling b2c offers to 7-figs with AI slideshows...](skills/heres-how-brazilians-affiliates-are-scaling-b2c-offers-to-7/SKILL.md) | x.com | @ManiClones |
+
+
+## Skills
+
+| Skill | Source | By |
+|-------|--------|----|
+| [How a personal AI agent will change your entire life in 1 day.](skills/how-a-personal-ai-agent-will-change-your-entire-life-in-1-da/SKILL.md) | x.com | @ManiClones |
