@@ -160,3 +160,10 @@ Built by [@ManiClones](https://github.com/ManiClones)
 | Skill | Source | By |
 |-------|--------|----|
 | [10 Things I Wish I Knew Before Using OpenClaw](skills/10-things-i-wish-i-knew-before-using-openclaw/SKILL.md) | x.com | @ManiClones |
+
+
+## Skills
+
+| Skill | Source | By |
+|-------|--------|----|
+| [X post by @ArticleSkills](skills/x-post-by-articleskills/SKILL.md) | x.com | @ziwenxu_ |
