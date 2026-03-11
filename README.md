@@ -195,3 +195,10 @@ Built by [@ManiClones](https://github.com/ManiClones)
 | Skill | Source | By |
 |-------|--------|----|
 | [Getting the most out of Nano Banana 2](skills/getting-the-most-out-of-nano-banana-2/SKILL.md) | x.com | @ManiClones |
+
+
+## Skills
+
+| Skill | Source | By |
+|-------|--------|----|
+| [How I built 13,000+ pages in 3 hours and grew SEO traffic +466% in 60 days](skills/how-i-built-13000-pages-in-3-hours-and-grew-seo-traffic-466/SKILL.md) | x.com | @ManiClones |
