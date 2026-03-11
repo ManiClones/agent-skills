@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "organization": "ManiClones",
+  "date": "2026-03-11",
+  "abstract": "This skill provides a comprehensive guide to leveraging Nano Banana 2 (also known as \"Gemini 3.1 Flash Image\"), a new image generation model in the Nano Banana lineup. It is designed for developers, creators, and product teams seeking to optimize cost, quality, and functionality in AI-generated visual workflows. It enables users to generate highly accurate, visually grounded images at lower costs than Nano Banana Pro, while introducing new capabilities like image grounding via Google Search, 512",
+  "source_article": {
+    "title": "Getting the most out of Nano Banana 2",
+    "url": "https://x.com/i/article/2031736103292821504",
+    "author": "@ManiClones",
+    "date": "2026-03-11"
+  },
+  "references": [
+    "https://x.com/i/article/2031736103292821504"
+  ]
+}
