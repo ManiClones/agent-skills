@@ -181,3 +181,10 @@ Built by [@ManiClones](https://github.com/ManiClones)
 | Skill | Source | By |
 |-------|--------|----|
 | [X post by @alphafortraders](skills/x-post-by-alphafortraders/SKILL.md) | x.com | @alphafortraders |
+
+
+## Skills
+
+| Skill | Source | By |
+|-------|--------|----|
+| [1000+ Free APIs That Will Replace Your Paid Subscriptions](skills/1000-free-apis-that-will-replace-your-paid-subscriptions/SKILL.md) | x.com | @ManiClones |
