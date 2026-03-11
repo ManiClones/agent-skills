@@ -188,3 +188,10 @@ Built by [@ManiClones](https://github.com/ManiClones)
 | Skill | Source | By |
 |-------|--------|----|
 | [1000+ Free APIs That Will Replace Your Paid Subscriptions](skills/1000-free-apis-that-will-replace-your-paid-subscriptions/SKILL.md) | x.com | @ManiClones |
+
+
+## Skills
+
+| Skill | Source | By |
+|-------|--------|----|
+| [Getting the most out of Nano Banana 2](skills/getting-the-most-out-of-nano-banana-2/SKILL.md) | x.com | @ManiClones |
