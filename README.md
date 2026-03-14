@@ -209,3 +209,10 @@ Built by [@ManiClones](https://github.com/ManiClones)
 | Skill | Source | By |
 |-------|--------|----|
 | [X post by @t3hcoinchaser](skills/x-post-by-t3hcoinchaser/SKILL.md) | x.com | @ManiClones |
+
+
+## Skills
+
+| Skill | Source | By |
+|-------|--------|----|
+| [the complete guide to building skills for claude/codex](skills/build-ai-agent-skills-for-claude-codex/SKILL.md) | x.com | @ManiClones |
