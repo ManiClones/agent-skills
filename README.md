@@ -223,3 +223,10 @@ Built by [@ManiClones](https://github.com/ManiClones)
 | Skill | Source | By |
 |-------|--------|----|
 | [How to Invest in AI (capitalize on the gold rush)](skills/how-to-invest-in-ai-capitalizing-on-the-gold-rush/SKILL.md) | x.com | @ManiClones |
+
+
+## Skills
+
+| Skill | Source | By |
+|-------|--------|----|
+| [How Karpathy's Autoresearch Works And What You Can Learn From It](skills/karpathy-autoresearch-harness-design/SKILL.md) | x.com | @ManiClones |
