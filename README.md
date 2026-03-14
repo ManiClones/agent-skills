@@ -230,3 +230,10 @@ Built by [@ManiClones](https://github.com/ManiClones)
 | Skill | Source | By |
 |-------|--------|----|
 | [How Karpathy's Autoresearch Works And What You Can Learn From It](skills/karpathy-autoresearch-harness-design/SKILL.md) | x.com | @ManiClones |
+
+
+## Skills
+
+| Skill | Source | By |
+|-------|--------|----|
+| [Automating TikTok, Instargram, Youtube Short Content with Claude Cowork (A Step-by-Step Workflow)](skills/automate-tiktok-ig-yt-content-with-claude-cowork/SKILL.md) | x.com | @ManiClones |
