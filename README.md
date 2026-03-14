@@ -216,3 +216,10 @@ Built by [@ManiClones](https://github.com/ManiClones)
 | Skill | Source | By |
 |-------|--------|----|
 | [the complete guide to building skills for claude/codex](skills/build-ai-agent-skills-for-claude-codex/SKILL.md) | x.com | @ManiClones |
+
+
+## Skills
+
+| Skill | Source | By |
+|-------|--------|----|
+| [How to Invest in AI (capitalize on the gold rush)](skills/how-to-invest-in-ai-capitalizing-on-the-gold-rush/SKILL.md) | x.com | @ManiClones |
